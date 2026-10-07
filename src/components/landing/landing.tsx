@@ -49,7 +49,7 @@ export function Landing({ signedInAs, error }: { signedInAs: string | null; erro
 
       <section
         ref={heroRef}
-        className="relative z-10 mx-auto grid max-w-6xl items-center gap-12 px-5 pt-14 pb-20 sm:px-8 md:grid-cols-[1.15fr_1fr] md:pt-24 md:pb-28"
+        className="relative z-10 mx-auto grid max-w-6xl grid-cols-1 items-center gap-12 px-5 pt-14 pb-20 sm:px-8 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] md:pt-24 md:pb-28"
       >
         <div>
           <motion.p

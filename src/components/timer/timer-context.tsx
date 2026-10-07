@@ -25,7 +25,7 @@ type TimerApi = Persisted & {
 };
 
 const STORAGE_KEY = "hgd-timer";
-const ALARM_REPEATS = 10;
+const ALARM_REPEATS = 3;
 const DEFAULT: Persisted = { duration: 90_000, status: "idle", endAt: null, remaining: 90_000, alarm: true };
 
 const TimerContext = createContext<TimerApi | null>(null);

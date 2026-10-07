@@ -21,7 +21,7 @@ export function Features() {
       >
         Everything the two of you need. <span className="text-muted">Nothing you don&apos;t.</span>
       </motion.h2>
-      <div className="mt-14 grid gap-4 sm:grid-cols-2">
+      <div className="mt-14 grid grid-cols-1 gap-4 sm:grid-cols-2">
         <Card index={0} title="Today" text="The app knows which day is next. Finish it now, or log one you did yesterday.">
           <TodayDemo />
         </Card>

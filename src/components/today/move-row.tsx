@@ -82,7 +82,7 @@ export function MoveRow({ index, slug, sets, checked, onToggle, logDate }: Props
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
           >
-            <div className="grid gap-5 border-t border-line p-4 sm:grid-cols-[1fr_1.1fr] sm:p-5">
+            <div className="grid grid-cols-1 gap-5 border-t border-line p-4 sm:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] sm:p-5">
               <div>
                 <div className="grid grid-cols-2 gap-2">
                   {ex.images.map((_, i) => (

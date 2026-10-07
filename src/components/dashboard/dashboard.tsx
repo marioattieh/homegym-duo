@@ -65,7 +65,7 @@ export function Dashboard({ completions, progress, members }: Props) {
         <Tile index={3} icon={Flame} label="Week streak" value={stats.streak} suffix={stats.streak === 1 ? "week" : "weeks"} sub="Weeks with a workout" />
       </div>
 
-      <div className="mt-6 grid gap-6 lg:grid-cols-[1.25fr_1fr]">
+      <div className="mt-6 grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.25fr)_minmax(0,1fr)]">
         <Card title="Workouts per week" delay={0.1}>
           <WeeklyChart weeks={stats.weeks} />
         </Card>

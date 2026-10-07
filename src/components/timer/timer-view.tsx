@@ -22,7 +22,7 @@ export function TimerView() {
     <div>
       <PageHeader eyebrow="Rest between sets" title="Timer" />
 
-      <div className="grid items-start gap-8 md:grid-cols-[1fr_320px]">
+      <div className="grid grid-cols-1 items-start gap-8 md:grid-cols-[minmax(0,1fr)_320px]">
         <div className="flex flex-col items-center">
           <motion.div
             className="relative aspect-square w-full max-w-[340px]"

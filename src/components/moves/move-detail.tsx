@@ -52,7 +52,7 @@ export function MoveDetail({ slug, series }: Props) {
         </p>
       </motion.div>
 
-      <div className="grid gap-6 lg:grid-cols-[1.2fr_1fr]">
+      <div className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,1fr)]">
         <motion.div {...rise(0.08)} className="grid grid-cols-2 items-start gap-3">
           {ex.images.map((_, i) => (
             <figure key={i} className="overflow-hidden rounded-3xl border border-line bg-surface">
@@ -100,7 +100,7 @@ export function MoveDetail({ slug, series }: Props) {
         </motion.div>
       </div>
 
-      <div className="mt-6 grid gap-6 lg:grid-cols-[1fr_1.2fr]">
+      <div className="mt-6 grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
         <motion.div {...rise(0.24)}>
           <div className="mb-3 flex items-center justify-between">
             <h2 className="font-display text-lg font-semibold">Log a session</h2>
