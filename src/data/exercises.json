@@ -1,0 +1,581 @@
+[
+  {
+    "slug": "goblet-squat",
+    "name": "Goblet squat",
+    "muscles": [
+      "Quads",
+      "Glutes",
+      "Adductors"
+    ],
+    "equipment": "Dumbbell",
+    "cues": [
+      "Hold dumbbell vertically at chest, elbows down",
+      "Sit hips between heels, chest tall",
+      "Drive through mid-foot, knees track over toes"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Goblet_Squat"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nfX7IFK9UNI",
+      "title": "How to do a Goblet Squat  | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "band-glute-bridge",
+    "name": "Banded glute bridge",
+    "muscles": [
+      "Glutes",
+      "Hamstrings",
+      "Glute medius"
+    ],
+    "equipment": "Resistance band",
+    "cues": [
+      "Band just above knees, feet hip-width",
+      "Push knees out against band throughout",
+      "Drive through heels, squeeze glutes at top"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Butt_Lift_Bridge"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=GjLPEfu5PN0",
+      "title": "Basic Banded Glute Bridge",
+      "channel": "Testosterone Nation"
+    }
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "name": "Bulgarian split squat",
+    "muscles": [
+      "Quads",
+      "Glutes",
+      "Adductors"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Rear foot laces-down on bench",
+      "Drop straight down, front heel planted",
+      "Slight forward lean for more glutes"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Split_Squat_with_Dumbbells"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=hiLF_pF3EJM",
+      "title": "Stop F*cking Up Bulgarian Split Squats (PROPER FORM!)",
+      "channel": "ATHLEAN-X™"
+    }
+  },
+  {
+    "slug": "band-lateral-walk",
+    "name": "Band lateral walk",
+    "muscles": [
+      "Glute medius",
+      "Glutes",
+      "Hip abductors"
+    ],
+    "equipment": "Resistance band",
+    "cues": [
+      "Quarter-squat stance, chest up",
+      "Step sideways leading with heel",
+      "Keep band taut; never let feet touch"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Monster_Walk"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=M5uxEQH5BUM",
+      "title": "How to do Lateral Band Walking",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "step-up",
+    "name": "Dumbbell step-up",
+    "muscles": [
+      "Quads",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Whole foot on bench, knee over ankle",
+      "Drive through top leg, minimal push-off",
+      "Lower slowly under control"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Step_Ups"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fd5sF59qezI",
+      "title": "How to perform a dumbbell step up",
+      "channel": "Human Kinetics"
+    }
+  },
+  {
+    "slug": "hamstring-leg-curl",
+    "name": "Hamstring leg curl",
+    "muscles": [
+      "Hamstrings",
+      "Calves"
+    ],
+    "equipment": "Bench leg-curl attachment",
+    "cues": [
+      "Pad just above heels, knees off bench edge",
+      "Hips pressed into bench, no arching",
+      "Curl fully, lower over three seconds"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Lying_Leg_Curls"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vl5nUdE9mWM",
+      "title": "How to Lying Leg Curl | Proper Technique, Set Up, & Mistakes",
+      "channel": "Physique Development"
+    }
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "name": "Dumbbell bench press",
+    "muscles": [
+      "Chest",
+      "Front delts",
+      "Triceps"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Shoulder blades pinched, feet planted",
+      "Elbows about 45 degrees from torso",
+      "Press up and slightly in over chest"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Bench_Press"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AuNRCrdhquE",
+      "title": "How to do a Two-Arm Dumbbell Chest Press  | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "band-pull-apart",
+    "name": "Band pull-apart",
+    "muscles": [
+      "Rear delts",
+      "Rhomboids",
+      "Mid traps"
+    ],
+    "equipment": "Resistance band",
+    "cues": [
+      "Arms straight at shoulder height",
+      "Pull band to chest, squeeze shoulder blades",
+      "Return slowly, ribs down"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Band_Pull_Apart"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=smSSXITNpCI",
+      "title": "How To Do Band Pull Aparts",
+      "channel": "Rogue Fitness"
+    }
+  },
+  {
+    "slug": "seated-dumbbell-shoulder-press",
+    "name": "Seated dumbbell shoulder press",
+    "muscles": [
+      "Front delts",
+      "Side delts",
+      "Triceps"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Back against upright bench, core braced",
+      "Start dumbbells at ear height",
+      "Press overhead without locking hard"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Shoulder_Press"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lfb3ffbrd4Q",
+      "title": "Seated Dumbbell Press | Shoulders | How-To Exercise Tutorial",
+      "channel": "Buff Dudes Workouts"
+    }
+  },
+  {
+    "slug": "one-arm-dumbbell-row",
+    "name": "One-arm dumbbell row",
+    "muscles": [
+      "Lats",
+      "Upper back",
+      "Biceps"
+    ],
+    "equipment": "Dumbbell + bench",
+    "cues": [
+      "Hand and knee on bench, flat back",
+      "Pull elbow toward hip, not shoulder",
+      "Lower to full stretch, no torso twist"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "One-Arm_Dumbbell_Row"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gfUg6qWohTk",
+      "title": "STOP F*cking Up Dumbbell Rows (PROPER FORM!)",
+      "channel": "ATHLEAN-X™"
+    }
+  },
+  {
+    "slug": "incline-dumbbell-bench-press",
+    "name": "Incline dumbbell bench press",
+    "muscles": [
+      "Upper chest",
+      "Front delts",
+      "Triceps"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Bench at 30 to 45 degrees",
+      "Lower to upper chest, elbows tucked slightly",
+      "Press up over shoulders, blades retracted"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Incline_Dumbbell_Press"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=JKnpHchOWPU",
+      "title": "How to do a Two-Arm Incline Dumbbell Chest Press | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "dumbbell-lateral-raise",
+    "name": "Dumbbell lateral raise",
+    "muscles": [
+      "Side delts",
+      "Upper traps"
+    ],
+    "equipment": "Dumbbells",
+    "cues": [
+      "Slight elbow bend, lean a touch forward",
+      "Raise to shoulder height, no higher",
+      "Lead with elbows, lower slowly"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Side_Lateral_Raise"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XPPfnSEATJA",
+      "title": "How to do a Dumbbell Lateral Raise",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "dumbbell-reverse-lunge",
+    "name": "Dumbbell reverse lunge",
+    "muscles": [
+      "Quads",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "Dumbbells",
+    "cues": [
+      "Step back long, torso upright",
+      "Lower back knee toward floor",
+      "Drive through front heel to stand"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Rear_Lunge"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Q2k3kYbtOcI",
+      "title": "Dumbbell Reverse Lunge",
+      "channel": "OPEX Fitness"
+    }
+  },
+  {
+    "slug": "leg-extension",
+    "name": "Leg extension",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": "Bench leg-extension attachment",
+    "cues": [
+      "Knees aligned with attachment pivot",
+      "Extend fully, squeeze quads at top",
+      "Lower slowly, keep hips on seat"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Leg_Extensions"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ljO4jkwv8wQ",
+      "title": "How To Do Leg Extensions With Perfect Technique (Grow Every Quad Head)",
+      "channel": "Jeff Nippard"
+    }
+  },
+  {
+    "slug": "sumo-squat",
+    "name": "Dumbbell sumo squat",
+    "muscles": [
+      "Adductors",
+      "Glutes",
+      "Quads"
+    ],
+    "equipment": "Dumbbell",
+    "cues": [
+      "Wide stance, toes turned out",
+      "Dumbbell hangs between legs, chest up",
+      "Push knees out over toes"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Plie_Dumbbell_Squat"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vBA3vyOxJv0",
+      "title": "Dumbbell Sumo Squat",
+      "channel": "OPEX Fitness"
+    }
+  },
+  {
+    "slug": "glute-bridge",
+    "name": "Glute bridge",
+    "muscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "Bodyweight or weighted",
+    "cues": [
+      "Feet hip-width, heels near glutes",
+      "Tuck ribs, drive hips up through heels",
+      "Pause and squeeze at top"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Butt_Lift_Bridge"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KI6fjDqGZh4",
+      "title": "Glute Bridge: How To (3 steps to proper form)",
+      "channel": "Born Fitness"
+    }
+  },
+  {
+    "slug": "romanian-deadlift",
+    "name": "Romanian deadlift",
+    "muscles": [
+      "Hamstrings",
+      "Glutes",
+      "Lower back"
+    ],
+    "equipment": "Dumbbells or barbell",
+    "cues": [
+      "Soft knees, push hips straight back",
+      "Weight slides down close to legs",
+      "Stop at hamstring stretch, flat back"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Romanian_Deadlift"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
+      "title": "HOW TO DO ROMANIAN DEADLIFTS (RDLs): Build Beefy Hamstrings With Perfect Technique",
+      "channel": "Jeff Nippard"
+    }
+  },
+  {
+    "slug": "dumbbell-chest-fly",
+    "name": "Dumbbell chest fly",
+    "muscles": [
+      "Chest",
+      "Front delts"
+    ],
+    "equipment": "Dumbbells + bench",
+    "cues": [
+      "Fixed slight elbow bend throughout",
+      "Open wide until chest stretches",
+      "Hug a barrel to bring weights up"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Flyes"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QENKPHhQVi4",
+      "title": "How to Properly Do a DUMBBELL FLY | Mind Pump",
+      "channel": "Mind Pump TV"
+    }
+  },
+  {
+    "slug": "seated-bench-row",
+    "name": "Seated bench row",
+    "muscles": [
+      "Lats",
+      "Rhomboids",
+      "Biceps"
+    ],
+    "equipment": "Bench row attachment",
+    "cues": [
+      "Sit tall, slight knee bend",
+      "Pull handle to lower ribs",
+      "Squeeze shoulder blades, no leaning back"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Seated_Cable_Rows"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=0R9ZQd3aM6s",
+      "title": "How to do a Seated Row",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    }
+  },
+  {
+    "slug": "dumbbell-bicep-curl",
+    "name": "Dumbbell bicep curl",
+    "muscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipment": "Dumbbells",
+    "cues": [
+      "Elbows pinned at sides",
+      "Curl up, palms turned to ceiling",
+      "Lower fully, no swinging"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_Bicep_Curl"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=in7PaeYlhrM",
+      "title": "The ONLY Way You Should Be Doing Dumbbell Bicep Curls!",
+      "channel": "Mind Pump TV"
+    }
+  },
+  {
+    "slug": "overhead-tricep-extension",
+    "name": "Single-arm overhead tricep extension",
+    "muscles": [
+      "Triceps (long head)"
+    ],
+    "equipment": "Dumbbell",
+    "cues": [
+      "Upper arm vertical beside head",
+      "Lower dumbbell behind head slowly",
+      "Extend fully without flaring elbow"
+    ],
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "imageSource": {
+      "type": "free-exercise-db",
+      "id": "Dumbbell_One-Arm_Triceps_Extension"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KRUrrf-ANao",
+      "title": "Tricep Extension Dumbbell One Arm Workout | MIND PUMP",
+      "channel": "Mind Pump TV"
+    }
+  }
+]
